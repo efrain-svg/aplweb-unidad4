@@ -1,0 +1,27 @@
+{
+  "status": "preparacion; servicios aun no desplegados",
+  "netlify": {
+    "siteId": "4ccbab4d-a583-489c-b411-57692c0f95b5",
+    "teamSlug": "freddy-efrain",
+    "siteName": "potes-freddy-aplweb-u4",
+    "frontendOrigin": "https://potes-freddy-aplweb-u4.netlify.app",
+    "dashboard": "https://app.netlify.com/projects/potes-freddy-aplweb-u4",
+    "VITE_API_URL": "https://tareas-api-production-113b32c3.up.railway.app/api"
+  },
+  "railway": {
+    "projectId": "371705e1-b418-4000-aab5-99e2af3a6b55",
+    "environmentId": "a4b8b551-5974-40a4-a0ce-d074f1af69c9",
+    "serviceId": "ef161f7f-1e1b-4934-9f30-5b35456c1b8f",
+    "apiOrigin": "https://tareas-api-production-113b32c3.up.railway.app",
+    "dockerfilePath": "Dockerfile",
+    "healthcheckPath": "/health",
+    "healthcheckTimeout": 120,
+    "restartPolicyType": "ON_FAILURE",
+    "restartPolicyMaxRetries": 3
+  },
+  "atlas": {
+    "projectId": "6b0905c4b236e91ed795750f",
+    "projectName": "AplicacionesWebU4",
+    "clusterName": "unidad4-cluster"
+  }
+}
