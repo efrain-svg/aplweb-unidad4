@@ -1,0 +1,128 @@
+Downloading MongoDB "7.0.24": 0% (0mb / 599.7mb)[0G
+Downloading MongoDB "7.0.24": 1% (6mb / 599.7mb)[0G
+Downloading MongoDB "7.0.24": 1.8% (10.6mb / 599.7mb)[0G
+Downloading MongoDB "7.0.24": 2.7% (16.4mb / 599.7mb)[0G
+Downloading MongoDB "7.0.24": 3.7% (22.2mb / 599.7mb)[0G
+Downloading MongoDB "7.0.24": 4.7% (28.3mb / 599.7mb)[0G
+Downloading MongoDB "7.0.24": 5.7% (34.4mb / 599.7mb)[0G
+Downloading MongoDB "7.0.24": 6.8% (40.6mb / 599.7mb)[0G
+Downloading MongoDB "7.0.24": 7.5% (44.7mb / 599.7mb)[0G
+Downloading MongoDB "7.0.24": 8.4% (50.4mb / 599.7mb)[0G
+Downloading MongoDB "7.0.24": 9.4% (56.2mb / 599.7mb)[0G
+Downloading MongoDB "7.0.24": 10.5% (62.8mb / 599.7mb)[0G
+Downloading MongoDB "7.0.24": 11.6% (69.4mb / 599.7mb)[0G
+Downloading MongoDB "7.0.24": 12.7% (76.1mb / 599.7mb)[0G
+Downloading MongoDB "7.0.24": 13.5% (80.8mb / 599.7mb)[0G
+Downloading MongoDB "7.0.24": 13.9% (83.3mb / 599.7mb)[0G
+Downloading MongoDB "7.0.24": 14.8% (88.6mb / 599.7mb)[0G
+Downloading MongoDB "7.0.24": 15.5% (93.2mb / 599.7mb)[0G
+Downloading MongoDB "7.0.24": 16.6% (99.4mb / 599.7mb)[0G
+Downloading MongoDB "7.0.24": 17.5% (105mb / 599.7mb)[0G
+Downloading MongoDB "7.0.24": 18.4% (110.4mb / 599.7mb)[0G
+Downloading MongoDB "7.0.24": 19.3% (116mb / 599.7mb)[0G
+Downloading MongoDB "7.0.24": 20.1% (120.5mb / 599.7mb)[0G
+Downloading MongoDB "7.0.24": 21.2% (126.9mb / 599.7mb)[0G
+Downloading MongoDB "7.0.24": 22.2% (132.9mb / 599.7mb)[0G
+Downloading MongoDB "7.0.24": 23.2% (138.9mb / 599.7mb)[0G
+Downloading MongoDB "7.0.24": 24.2% (144.9mb / 599.7mb)[0G
+Downloading MongoDB "7.0.24": 25.1% (150.5mb / 599.7mb)[0G
+Downloading MongoDB "7.0.24": 26.1% (156.3mb / 599.7mb)[0G
+Downloading MongoDB "7.0.24": 27.1% (162.2mb / 599.7mb)[0G
+Downloading MongoDB "7.0.24": 28% (167.6mb / 599.7mb)[0G
+Downloading MongoDB "7.0.24": 29% (173.7mb / 599.7mb)[0G
+Downloading MongoDB "7.0.24": 29.9% (179.4mb / 599.7mb)[0G
+Downloading MongoDB "7.0.24": 31% (185.6mb / 599.7mb)[0G
+Downloading MongoDB "7.0.24": 31.9% (191.1mb / 599.7mb)[0G
+Downloading MongoDB "7.0.24": 32.9% (197.1mb / 599.7mb)[0G
+Downloading MongoDB "7.0.24": 33.9% (203.1mb / 599.7mb)[0G
+Downloading MongoDB "7.0.24": 34.9% (209mb / 599.7mb)[0G
+Downloading MongoDB "7.0.24": 35.9% (215.4mb / 599.7mb)[0G
+Downloading MongoDB "7.0.24": 36.8% (220.4mb / 599.7mb)[0G
+Downloading MongoDB "7.0.24": 37.7% (225.9mb / 599.7mb)[0G
+Downloading MongoDB "7.0.24": 38.6% (231.7mb / 599.7mb)[0G
+Downloading MongoDB "7.0.24": 39.6% (237.6mb / 599.7mb)[0G
+Downloading MongoDB "7.0.24": 40.6% (243.7mb / 599.7mb)[0G
+Downloading MongoDB "7.0.24": 41.7% (249.8mb / 599.7mb)[0G
+Downloading MongoDB "7.0.24": 42.6% (255.3mb / 599.7mb)[0G
+Downloading MongoDB "7.0.24": 43.4% (260.5mb / 599.7mb)[0G
+Downloading MongoDB "7.0.24": 44.5% (267mb / 599.7mb)[0G
+Downloading MongoDB "7.0.24": 45.3% (271.5mb / 599.7mb)[0G
+Downloading MongoDB "7.0.24": 46.3% (277.4mb / 599.7mb)[0G
+Downloading MongoDB "7.0.24": 47.2% (283mb / 599.7mb)[0G
+Downloading MongoDB "7.0.24": 48.1% (288.3mb / 599.7mb)[0G
+Downloading MongoDB "7.0.24": 49% (294.1mb / 599.7mb)[0G
+Downloading MongoDB "7.0.24": 50% (299.6mb / 599.7mb)[0G
+Downloading MongoDB "7.0.24": 51% (305.5mb / 599.7mb)[0G
+Downloading MongoDB "7.0.24": 51.9% (311mb / 599.7mb)[0G
+Downloading MongoDB "7.0.24": 52.7% (316.1mb / 599.7mb)[0G
+Downloading MongoDB "7.0.24": 53.5% (320.9mb / 599.7mb)[0G
+Downloading MongoDB "7.0.24": 54.4% (326.2mb / 599.7mb)[0G
+Downloading MongoDB "7.0.24": 55.4% (332.3mb / 599.7mb)[0G
+Downloading MongoDB "7.0.24": 56.4% (338mb / 599.7mb)[0G
+Downloading MongoDB "7.0.24": 57.3% (343.9mb / 599.7mb)[0G
+Downloading MongoDB "7.0.24": 58.1% (348.7mb / 599.7mb)[0G
+Downloading MongoDB "7.0.24": 59.1% (354.2mb / 599.7mb)[0G
+Downloading MongoDB "7.0.24": 60.1% (360.4mb / 599.7mb)[0G
+Downloading MongoDB "7.0.24": 61.1% (366.2mb / 599.7mb)[0G
+Downloading MongoDB "7.0.24": 62% (371.6mb / 599.7mb)[0G
+Downloading MongoDB "7.0.24": 62.7% (375.9mb / 599.7mb)[0G
+Downloading MongoDB "7.0.24": 63.4% (380.1mb / 599.7mb)[0G
+Downloading MongoDB "7.0.24": 64.4% (386mb / 599.7mb)[0G
+Downloading MongoDB "7.0.24": 65.2% (391mb / 599.7mb)[0G
+Downloading MongoDB "7.0.24": 66.1% (396.6mb / 599.7mb)[0G
+Downloading MongoDB "7.0.24": 67.1% (402.5mb / 599.7mb)[0G
+Downloading MongoDB "7.0.24": 68.2% (408.8mb / 599.7mb)[0G
+Downloading MongoDB "7.0.24": 69.2% (414.9mb / 599.7mb)[0G
+Downloading MongoDB "7.0.24": 70% (419.9mb / 599.7mb)[0G
+Downloading MongoDB "7.0.24": 71% (426mb / 599.7mb)[0G
+Downloading MongoDB "7.0.24": 72% (431.7mb / 599.7mb)[0G
+Downloading MongoDB "7.0.24": 72.7% (436mb / 599.7mb)[0G
+Downloading MongoDB "7.0.24": 73.7% (441.7mb / 599.7mb)[0G
+Downloading MongoDB "7.0.24": 74.4% (446.4mb / 599.7mb)[0G
+Downloading MongoDB "7.0.24": 75.2% (451.1mb / 599.7mb)[0G
+Downloading MongoDB "7.0.24": 76.3% (457.3mb / 599.7mb)[0G
+Downloading MongoDB "7.0.24": 77.3% (463.6mb / 599.7mb)[0G
+Downloading MongoDB "7.0.24": 78.4% (469.9mb / 599.7mb)[0G
+Downloading MongoDB "7.0.24": 79.2% (475.1mb / 599.7mb)[0G
+Downloading MongoDB "7.0.24": 80.1% (480.5mb / 599.7mb)[0G
+Downloading MongoDB "7.0.24": 81.1% (486.3mb / 599.7mb)[0G
+Downloading MongoDB "7.0.24": 82.1% (492.2mb / 599.7mb)[0G
+Downloading MongoDB "7.0.24": 83% (498mb / 599.7mb)[0G
+Downloading MongoDB "7.0.24": 84% (503.4mb / 599.7mb)[0G
+Downloading MongoDB "7.0.24": 84.9% (509mb / 599.7mb)[0G
+Downloading MongoDB "7.0.24": 85.8% (514.3mb / 599.7mb)[0G
+Downloading MongoDB "7.0.24": 86.7% (519.9mb / 599.7mb)[0G
+Downloading MongoDB "7.0.24": 87.8% (526.5mb / 599.7mb)[0G
+Downloading MongoDB "7.0.24": 88.8% (532.8mb / 599.7mb)[0G
+Downloading MongoDB "7.0.24": 89.9% (539mb / 599.7mb)[0G
+Downloading MongoDB "7.0.24": 90.8% (544.6mb / 599.7mb)[0G
+Downloading MongoDB "7.0.24": 91.7% (549.8mb / 599.7mb)[0G
+Downloading MongoDB "7.0.24": 92.8% (556.2mb / 599.7mb)[0G
+Downloading MongoDB "7.0.24": 93.8% (562.8mb / 599.7mb)[0G
+Downloading MongoDB "7.0.24": 94.9% (569.1mb / 599.7mb)[0G
+Downloading MongoDB "7.0.24": 95.8% (574.2mb / 599.7mb)[0G
+Downloading MongoDB "7.0.24": 96.8% (580.7mb / 599.7mb)[0G
+Downloading MongoDB "7.0.24": 97.8% (586.5mb / 599.7mb)[0G
+Downloading MongoDB "7.0.24": 98.7% (592mb / 599.7mb)[0G
+Downloading MongoDB "7.0.24": 99.7% (598.2mb / 599.7mb)[0G
+Downloading MongoDB "7.0.24": 100% (599.7mb / 599.7mb)[0G
+Downloading MongoDB "7.0.24": 100% (0mb / 0mb)[0G
+✔ 01 health comprueba MongoDB y cabeceras de seguridad (221335.1505ms)
+✔ 02 CRUD y persistencia tras reiniciar la API (273.4193ms)
+✔ 03 rechaza títulos inválidos e identificadores mal formados (33.7284ms)
+✔ 04 CORS autoriza origen exacto y rechaza el ajeno (13.5962ms)
+✔ 05 JSON incorrecto y cuerpo mayor de 8 KB (13.9244ms)
+✔ 06 rechaza operadores e intentos de asignación masiva (76.8131ms)
+✔ 07 limita consultas a 100 documentos y usa el índice (47.3019ms)
+✔ 08 health devuelve 503 si la base no está disponible (15.803ms)
+✔ 09 limita solicitudes con respuesta 429 (31.6268ms)
+✔ 10 logs contienen duración y estado sin cuerpos ni credenciales (1.6718ms)
+✔ 11 respaldo cifrado restaura BSON y detecta manipulación (56.3429ms)
+ℹ tests 11
+ℹ suites 0
+ℹ pass 11
+ℹ fail 0
+ℹ cancelled 0
+ℹ skipped 0
+ℹ todo 0
+ℹ duration_ms 226541.2161

@@ -1,0 +1,13 @@
+Verificación manual automatizada mediante navegador local
+Fecha de la sesión: 26 de noviembre de 2026, America/Guayaquil
+Destino: http://localhost:3000/
+Base: MongoDB temporal local con datos ficticios
+
+1. La vista inicial cargó tres tareas provenientes de la API.
+2. Se escribió Prueba visual de integración y se pulsó Agregar.
+3. La lista y el contador pasaron de tres a cuatro tareas.
+4. Se marcó la tarea de prueba como completada.
+5. Se recargó el navegador: la tarea continuó presente y completada.
+6. La captura visual revisada mostró formulario, resumen y lista legibles, sin solapamientos.
+
+Esta comprobación no acredita HTTPS, despliegue externo ni disponibilidad en nube.

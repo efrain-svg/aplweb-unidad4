@@ -1,0 +1,33 @@
+{
+  "date": "2026-11-27T04:12:32.642Z",
+  "environment": "local Windows; MongoDB 7.0.24; sin TLS ni red pública",
+  "base": "http://127.0.0.1:60072",
+  "seedDocuments": 1000,
+  "warmup": 10,
+  "results": [
+    {
+      "path": "/health",
+      "concurrency": 1,
+      "requests": 50,
+      "p50Ms": 2.88,
+      "p95Ms": 7.83,
+      "requestsPerSecond": 284.52,
+      "errors": 0,
+      "statuses": {
+        "200": 50
+      }
+    },
+    {
+      "path": "/api/tasks",
+      "concurrency": 5,
+      "requests": 50,
+      "p50Ms": 33.2,
+      "p95Ms": 56.01,
+      "requestsPerSecond": 137.92,
+      "errors": 0,
+      "statuses": {
+        "200": 50
+      }
+    }
+  ]
+}
