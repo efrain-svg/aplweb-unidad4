@@ -1,0 +1,14 @@
+{
+  "name": "tareas-unidad4", "version": "1.0.0", "private": true, "type": "module",
+  "engines": { "node": ">=22.12.0" },
+  "scripts": {
+    "start": "node --env-file-if-exists=.env backend/server.js",
+    "dev": "vite --host 127.0.0.1",
+    "build": "vite build",
+    "test": "node --test --test-concurrency=1 tests/integration.test.js",
+    "verify": "npm test && npm run build",
+    "benchmark": "node scripts/benchmark.js"
+  },
+  "dependencies": { "compression": "^1.8.1", "cors": "^2.8.5", "express": "^5.1.0", "express-rate-limit": "^8.1.0", "helmet": "^8.1.0", "mongodb": "^6.20.0", "vue": "^3.5.22" },
+  "devDependencies": { "@vitejs/plugin-vue": "^6.0.1", "vite": "^7.1.7", "mongodb-memory-server": "^10.2.1" }
+}
