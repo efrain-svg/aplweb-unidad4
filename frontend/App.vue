@@ -13,7 +13,7 @@ async function load() { const data = await request('/tasks'); tasks.value = data
 async function action(fn) {
   if (busy.value) return;
   busy.value = true; error.value = '';
-  try { await fn(); } catch (e) { error.value = e.name === 'TimeoutError' ? 'La conexión tardó demasiado. Intenta de nuevo.' : e.message; }
+  try { await fn(); } catch (e) { error.value = e.name === 'TimeoutError' ? 'La conexión tardó demasiado. Intenta de nuevo.' : e instanceof TypeError ? 'No se pudo conectar con el servidor. Intenta de nuevo en unos momentos.' : e.message; }
   finally { busy.value = false; loading.value = false; }
 }
 async function add() { await action(async () => { await request('/tasks', { method: 'POST', body: JSON.stringify({ title: title.value }) }); title.value = ''; await load(); }); }
