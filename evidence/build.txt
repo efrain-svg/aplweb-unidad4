@@ -1,3 +1,7 @@
+
+> tareas-unidad4@1.0.0 build
+> vite build
+
 vite v7.3.8 building client environment for production...
 transforming...
 ✓ 10 modules transformed.
@@ -5,5 +9,5 @@ rendering chunks...
 computing gzip size...
 dist/index.html                  0.43 kB │ gzip:  0.29 kB
 dist/assets/index-eyCy1wEG.css   2.01 kB │ gzip:  0.89 kB
-dist/assets/index-BVxdrX-W.js   71.41 kB │ gzip: 28.41 kB
-✓ built in 1.98s
+dist/assets/index-COneAXfg.js   71.48 kB │ gzip: 28.44 kB
+✓ built in 639ms

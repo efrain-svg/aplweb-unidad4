@@ -1,0 +1,67 @@
+{
+  "date": "2026-11-27T21:22:23.363Z",
+  "base": "https://tareas-api-production-113b32c3.up.railway.app",
+  "origin": "https://potes-freddy-aplweb-u4.netlify.app",
+  "checks": [
+    {
+      "name": "Frontend sin sesión",
+      "status": 200,
+      "expected": 200,
+      "passed": true
+    },
+    {
+      "name": "Health con Atlas",
+      "status": 200,
+      "expected": 200,
+      "passed": true
+    },
+    {
+      "name": "Preflight autorizado",
+      "status": 204,
+      "expected": 204,
+      "passed": true
+    },
+    {
+      "name": "Origen ajeno rechazado",
+      "status": 403,
+      "expected": 403,
+      "passed": true
+    },
+    {
+      "name": "Título vacío",
+      "status": 400,
+      "expected": 400,
+      "passed": true
+    },
+    {
+      "name": "Crear registro de prueba",
+      "status": 201,
+      "expected": 201,
+      "passed": true
+    },
+    {
+      "name": "Completar registro",
+      "status": 200,
+      "expected": 200,
+      "passed": true
+    },
+    {
+      "name": "Leer persistencia",
+      "status": 200,
+      "expected": 200,
+      "passed": true
+    },
+    {
+      "name": "Eliminar solo registro temporal",
+      "status": 204,
+      "expected": 204,
+      "passed": true
+    },
+    {
+      "name": "Registro temporal eliminado",
+      "passed": true
+    }
+  ],
+  "allPassed": true,
+  "remainingDocuments": 1
+}

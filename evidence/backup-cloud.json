@@ -1,0 +1,15 @@
+{
+  "createdAt": "2026-11-27T05:30:32.357Z",
+  "documents": 1,
+  "sha256": "43b74252466231ecb864fefa536434319dfd6b17596f820153e590fad71f5e34",
+  "cipher": "AES-256-GCM",
+  "keyProtection": "Windows DPAPI CurrentUser",
+  "bsonPreserved": true,
+  "equal": true,
+  "restore": {
+    "database": "restore_unidad4_20261127",
+    "documents": 1,
+    "equal": true,
+    "elapsedSeconds": 143
+  }
+}
