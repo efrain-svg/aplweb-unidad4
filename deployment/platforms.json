@@ -1,12 +1,15 @@
 {
-  "status": "preparacion; servicios aun no desplegados",
+  "status": "Frontend público y API con Atlas operativos; comprobaciones remotas aprobadas",
   "netlify": {
     "siteId": "4ccbab4d-a583-489c-b411-57692c0f95b5",
     "teamSlug": "freddy-efrain",
     "siteName": "potes-freddy-aplweb-u4",
     "frontendOrigin": "https://potes-freddy-aplweb-u4.netlify.app",
     "dashboard": "https://app.netlify.com/projects/potes-freddy-aplweb-u4",
-    "VITE_API_URL": "https://tareas-api-production-113b32c3.up.railway.app/api"
+    "VITE_API_URL": "https://tareas-api-production-113b32c3.up.railway.app/api",
+    "deploymentId": "6b09143d63439db3a40f1d00",
+    "productionPublic": true,
+    "previewsPrivate": true
   },
   "railway": {
     "projectId": "371705e1-b418-4000-aab5-99e2af3a6b55",
@@ -15,13 +18,25 @@
     "apiOrigin": "https://tareas-api-production-113b32c3.up.railway.app",
     "dockerfilePath": "Dockerfile",
     "healthcheckPath": "/health",
-    "healthcheckTimeout": 120,
+    "healthcheckTimeout": 600,
     "restartPolicyType": "ON_FAILURE",
-    "restartPolicyMaxRetries": 3
+    "restartPolicyMaxRetries": 3,
+    "deploymentId": "113f0ab0-2ef8-4360-add9-b86829f81234",
+    "watchPatterns": [
+      "/backend/**",
+      "/Dockerfile",
+      "/package.json",
+      "/package-lock.json"
+    ]
   },
   "atlas": {
     "projectId": "6b0905c4b236e91ed795750f",
     "projectName": "AplicacionesWebU4",
-    "clusterName": "unidad4-cluster"
-  }
+    "clusterName": "unidad4-cluster",
+    "allowedEgress": "152.55.181.5/32",
+    "dynamicEgress": true
+  },
+  "repository": "https://github.com/efrain-svg/aplweb-unidad4",
+  "ciRun": "https://github.com/efrain-svg/aplweb-unidad4/actions/runs/45940948443",
+  "functionalCommit": "8e41130e5c84dfdb84c6aa471721b7a277c1852d"
 }
