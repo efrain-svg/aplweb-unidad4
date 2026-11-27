@@ -22,7 +22,7 @@ export function createApp({ db, origin, logger = console.log, limit = 120 }) {
   });
   app.get('/health', async (_req, res) => {
     res.set('Cache-Control', 'no-store');
-    try { await db.command({ ping: 1 }, { timeoutMS: 3000 }); res.json({ status: 'ok' }); }
+    try { await db.command({ ping: 1 }, { maxTimeMS: 3000 }); res.json({ status: 'ok' }); }
     catch { res.status(503).json({ status: 'unavailable' }); }
   });
   app.use((req, res, next) => {
